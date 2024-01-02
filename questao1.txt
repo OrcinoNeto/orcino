@@ -1,0 +1,8 @@
+1- Cite qual é a utilidade de cada um dos pilares do pensamento computacional e como podem ser usados em problemas reais não relacionados a computadores.
+    R: Abstração: Onde nós sabemos os pontos essenciais do problema e abstraimos as coisas que são menos importante.
+    R: Reconhecimento de Padrão: Onde identificamos padrões no problema, para achar uma solução.
+    R: Decomposição: Onde pegamos o problema e dividimos por menores partes.
+    R: Alogaritimo: Quando determinamos a solução para o problema.
+
+    Então quando temos um problema real não relacionado a computadores, podemos e devemos pensar com esses pilares, em qualquer contexto que for o problema,
+    facilitamos nosso trabalho e conseguimos achar solução para o problema, e com varias formas de decisões.
