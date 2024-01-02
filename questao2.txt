@@ -1,0 +1,3 @@
+2- Com suas palavras, explique a importância de seguir as regras normais no desenvolvimento de uma modelagem de dados.
+    Para o sitema ter desempenho com as tabelas e tipagem dos atributos corretas, para evitar alterações ou exclusão futura de dados,
+    não ter redundancia dos dados mantendo a integridade dos dados, com nomes chaves e faceis para facilitar na manutenção.
