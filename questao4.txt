@@ -1,0 +1,3 @@
+4- Sobre a modelagem feita por Ianko para a ImmoLink, quais são as divergências em relação ao seu pensamento, seja em tipagem, nomenclatura, tabelas, etc.
+Tipagem do Logradouro muito grande.
+Tipagem do CPF coloco bigint.
